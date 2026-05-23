@@ -51,7 +51,6 @@ The project is built with **Flutter** for maximum cross-platform reach (iOS, And
 
 ## 🖼️ Screenshots
 
-> *(Screenshots can be added here after building and running the app)*
 
 | Login | Patient Home | BMI Calculator |
 |---|---|---|
