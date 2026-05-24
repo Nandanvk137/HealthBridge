@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💙 HealthBridge
+# 💙 CareSync
 
 ### *Your health, perfectly in sync.*
 
