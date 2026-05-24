@@ -54,15 +54,15 @@ The project is built with **Flutter** for maximum cross-platform reach (iOS, And
 
 | Login | Patient Home | BMI Calculator |
 |---|---|---|
-| ![Login](screenshots/login.png) | ![Home](screenshots/home.png) | ![BMI](screenshots/bmi.png) |
+| ![Login](login.jpeg) | ![Home](home.jpeg) | ![BMI](bmi.jpeg) |
 
 | Doctors | Appointments | Doctor Portal |
 |---|---|---|
-| ![Doctors](screenshots/doctors.png) | ![Appointments](screenshots/appointments.png) | ![Doctor](screenshots/doctor.png) |
+| ![Doctors](doctors.jpeg) | ![Appointments](appointments.jpeg) | ![Doctor](doctor.jpeg) |
 
 | Dark Mode | Pharmacist | Inventory |
 |---|---|---|
-| ![Dark](screenshots/dark.png) | ![Pharmacist](screenshots/pharmacist.png) | ![Inventory](screenshots/inventory.png) |
+| ![Dark](dark.jpeg) | ![Pharmacist](pharmacist.jpeg) | ![Inventory](inventory.jpeg) |
 
 ---
 
